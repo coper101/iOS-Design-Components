@@ -7,18 +7,55 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		274C4F6528746C6D0093A581 /* NavView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 274C4F6428746C6D0093A581 /* NavView.swift */; };
+		2757295328730C98002B8D0C /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2757295228730C98002B8D0C /* Buttons.swift */; };
+		277BAA6128C64E2300055A78 /* NavBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277BAA6028C64E2300055A78 /* NavBar.swift */; };
 		27CD12E52871445D00245A1E /* iOS_ComponentsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CD12E42871445D00245A1E /* iOS_ComponentsApp.swift */; };
-		27CD12E72871445D00245A1E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CD12E62871445D00245A1E /* ContentView.swift */; };
 		27CD12E92871445F00245A1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27CD12E82871445F00245A1E /* Assets.xcassets */; };
 		27CD12EC2871445F00245A1E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27CD12EB2871445F00245A1E /* Preview Assets.xcassets */; };
+		27CD12F428717B5C00245A1E /* TextStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CD12F328717B5C00245A1E /* TextStyles.swift */; };
+		27CD12F728717BC100245A1E /* Designs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CD12F628717BC100245A1E /* Designs.swift */; };
+		27CD13012871933900245A1E /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27CD13002871933900245A1E /* Poppins-Light.ttf */; };
+		27CD13032871936500245A1E /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27CD13022871936500245A1E /* Poppins-Regular.ttf */; };
+		27CD13052871937000245A1E /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27CD13042871937000245A1E /* Poppins-Medium.ttf */; };
+		27CD130728719A8400245A1E /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CD130628719A8400245A1E /* Colors.swift */; };
+		27D42D5028CCB26A00827F0F /* Sliders.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D42D4F28CCB26A00827F0F /* Sliders.swift */; };
+		27D42D5228CCB4E100827F0F /* Toggles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D42D5128CCB4E100827F0F /* Toggles.swift */; };
+		27D42D5428CCBF1400827F0F /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D42D5328CCBF1400827F0F /* TabBar.swift */; };
+		27D42D5628CDA91300827F0F /* Pickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D42D5528CDA91300827F0F /* Pickers.swift */; };
+		27D42D5828CDAEDD00827F0F /* DateTimePickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D42D5728CDAEDD00827F0F /* DateTimePickers.swift */; };
+		27D42D5B28CDB25A00827F0F /* Modifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D42D5A28CDB25A00827F0F /* Modifiers.swift */; };
+		27D42D6228CDC3C100827F0F /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D42D6128CDC3C100827F0F /* String.swift */; };
+		27D42D6428CDE2BD00827F0F /* Weights.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D42D6328CDE2BD00827F0F /* Weights.swift */; };
+		27E3AE5C28CC80F900BD7DCC /* TextFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E3AE5B28CC80F900BD7DCC /* TextFields.swift */; };
+		27E3AE5E28CCAF6A00BD7DCC /* TextButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E3AE5D28CCAF6A00BD7DCC /* TextButtons.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		274C4F6428746C6D0093A581 /* NavView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavView.swift; sourceTree = "<group>"; };
+		2757295228730C98002B8D0C /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
+		277BAA6028C64E2300055A78 /* NavBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavBar.swift; sourceTree = "<group>"; };
 		27CD12E12871445D00245A1E /* iOS Components.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS Components.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		27CD12E42871445D00245A1E /* iOS_ComponentsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_ComponentsApp.swift; sourceTree = "<group>"; };
-		27CD12E62871445D00245A1E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		27CD12E82871445F00245A1E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		27CD12EB2871445F00245A1E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		27CD12F328717B5C00245A1E /* TextStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextStyles.swift; sourceTree = "<group>"; };
+		27CD12F628717BC100245A1E /* Designs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Designs.swift; sourceTree = "<group>"; };
+		27CD12FF2871894C00245A1E /* iOS-Components-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "iOS-Components-Info.plist"; sourceTree = SOURCE_ROOT; };
+		27CD13002871933900245A1E /* Poppins-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Light.ttf"; sourceTree = "<group>"; };
+		27CD13022871936500245A1E /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		27CD13042871937000245A1E /* Poppins-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Medium.ttf"; sourceTree = "<group>"; };
+		27CD130628719A8400245A1E /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		27D42D4F28CCB26A00827F0F /* Sliders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sliders.swift; sourceTree = "<group>"; };
+		27D42D5128CCB4E100827F0F /* Toggles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Toggles.swift; sourceTree = "<group>"; };
+		27D42D5328CCBF1400827F0F /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		27D42D5528CDA91300827F0F /* Pickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pickers.swift; sourceTree = "<group>"; };
+		27D42D5728CDAEDD00827F0F /* DateTimePickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateTimePickers.swift; sourceTree = "<group>"; };
+		27D42D5A28CDB25A00827F0F /* Modifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modifiers.swift; sourceTree = "<group>"; };
+		27D42D6128CDC3C100827F0F /* String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
+		27D42D6328CDE2BD00827F0F /* Weights.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weights.swift; sourceTree = "<group>"; };
+		27E3AE5B28CC80F900BD7DCC /* TextFields.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFields.swift; sourceTree = "<group>"; };
+		27E3AE5D28CCAF6A00BD7DCC /* TextButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextButtons.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +69,42 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		274C4F6328746C560093A581 /* Navigation */ = {
+			isa = PBXGroup;
+			children = (
+				274C4F6428746C6D0093A581 /* NavView.swift */,
+				277BAA6028C64E2300055A78 /* NavBar.swift */,
+				27D42D5328CCBF1400827F0F /* TabBar.swift */,
+			);
+			path = Navigation;
+			sourceTree = "<group>";
+		};
+		2757295428730C9E002B8D0C /* Button */ = {
+			isa = PBXGroup;
+			children = (
+				2757295228730C98002B8D0C /* Buttons.swift */,
+				27E3AE5D28CCAF6A00BD7DCC /* TextButtons.swift */,
+			);
+			path = Button;
+			sourceTree = "<group>";
+		};
+		277BAA5B28C4C93100055A78 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				27CD12E42871445D00245A1E /* iOS_ComponentsApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		277BAA5D28C4C94300055A78 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				27CD12FA287188E700245A1E /* Fonts */,
+				27CD12E82871445F00245A1E /* Assets.xcassets */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
 		27CD12D82871445C00245A1E = {
 			isa = PBXGroup;
 			children = (
@@ -51,9 +124,12 @@
 		27CD12E32871445D00245A1E /* iOS Components */ = {
 			isa = PBXGroup;
 			children = (
-				27CD12E42871445D00245A1E /* iOS_ComponentsApp.swift */,
-				27CD12E62871445D00245A1E /* ContentView.swift */,
-				27CD12E82871445F00245A1E /* Assets.xcassets */,
+				27CD12FF2871894C00245A1E /* iOS-Components-Info.plist */,
+				277BAA5B28C4C93100055A78 /* App */,
+				27CD12F528717B8300245A1E /* Views */,
+				27D42D5E28CDC18300827F0F /* Model */,
+				27D42D5928CDB25000827F0F /* Utils */,
+				277BAA5D28C4C94300055A78 /* Assets */,
 				27CD12EA2871445F00245A1E /* Preview Content */,
 			);
 			path = "iOS Components";
@@ -65,6 +141,74 @@
 				27CD12EB2871445F00245A1E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		27CD12F228717B3900245A1E /* Text */ = {
+			isa = PBXGroup;
+			children = (
+				27CD12F328717B5C00245A1E /* TextStyles.swift */,
+				27CD12F628717BC100245A1E /* Designs.swift */,
+				27D42D6328CDE2BD00827F0F /* Weights.swift */,
+			);
+			path = Text;
+			sourceTree = "<group>";
+		};
+		27CD12F528717B8300245A1E /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				27E3AE5A28CC80E600BD7DCC /* Input */,
+				274C4F6328746C560093A581 /* Navigation */,
+				27CD130828719A8800245A1E /* Color */,
+				27CD12F228717B3900245A1E /* Text */,
+				2757295428730C9E002B8D0C /* Button */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		27CD12FA287188E700245A1E /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				27CD13042871937000245A1E /* Poppins-Medium.ttf */,
+				27CD13022871936500245A1E /* Poppins-Regular.ttf */,
+				27CD13002871933900245A1E /* Poppins-Light.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		27CD130828719A8800245A1E /* Color */ = {
+			isa = PBXGroup;
+			children = (
+				27CD130628719A8400245A1E /* Colors.swift */,
+			);
+			path = Color;
+			sourceTree = "<group>";
+		};
+		27D42D5928CDB25000827F0F /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				27D42D5A28CDB25A00827F0F /* Modifiers.swift */,
+				27D42D6128CDC3C100827F0F /* String.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		27D42D5E28CDC18300827F0F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		27E3AE5A28CC80E600BD7DCC /* Input */ = {
+			isa = PBXGroup;
+			children = (
+				27E3AE5B28CC80F900BD7DCC /* TextFields.swift */,
+				27D42D4F28CCB26A00827F0F /* Sliders.swift */,
+				27D42D5128CCB4E100827F0F /* Toggles.swift */,
+				27D42D5528CDA91300827F0F /* Pickers.swift */,
+				27D42D5728CDAEDD00827F0F /* DateTimePickers.swift */,
+			);
+			path = Input;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +269,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				27CD13012871933900245A1E /* Poppins-Light.ttf in Resources */,
 				27CD12EC2871445F00245A1E /* Preview Assets.xcassets in Resources */,
 				27CD12E92871445F00245A1E /* Assets.xcassets in Resources */,
+				27CD13052871937000245A1E /* Poppins-Medium.ttf in Resources */,
+				27CD13032871936500245A1E /* Poppins-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +284,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				27CD12E72871445D00245A1E /* ContentView.swift in Sources */,
+				277BAA6128C64E2300055A78 /* NavBar.swift in Sources */,
+				2757295328730C98002B8D0C /* Buttons.swift in Sources */,
+				27CD12F728717BC100245A1E /* Designs.swift in Sources */,
+				27CD130728719A8400245A1E /* Colors.swift in Sources */,
+				27D42D5628CDA91300827F0F /* Pickers.swift in Sources */,
+				27E3AE5C28CC80F900BD7DCC /* TextFields.swift in Sources */,
+				27CD12F428717B5C00245A1E /* TextStyles.swift in Sources */,
+				27D42D5828CDAEDD00827F0F /* DateTimePickers.swift in Sources */,
 				27CD12E52871445D00245A1E /* iOS_ComponentsApp.swift in Sources */,
+				27E3AE5E28CCAF6A00BD7DCC /* TextButtons.swift in Sources */,
+				27D42D5428CCBF1400827F0F /* TabBar.swift in Sources */,
+				27D42D5B28CDB25A00827F0F /* Modifiers.swift in Sources */,
+				27D42D5028CCB26A00827F0F /* Sliders.swift in Sources */,
+				27D42D6228CDC3C100827F0F /* String.swift in Sources */,
+				274C4F6528746C6D0093A581 /* NavView.swift in Sources */,
+				27D42D5228CCB4E100827F0F /* Toggles.swift in Sources */,
+				27D42D6428CDE2BD00827F0F /* Weights.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,9 +434,11 @@
 				DEVELOPMENT_TEAM = KB9D3Y7M29;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS-Components-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -301,9 +465,11 @@
 				DEVELOPMENT_TEAM = KB9D3Y7M29;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS-Components-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (

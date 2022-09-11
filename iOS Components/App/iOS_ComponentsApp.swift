@@ -11,7 +11,8 @@ import SwiftUI
 struct iOS_ComponentsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            // FontWeightsView()
+            NavView()
         }
     }
 }
