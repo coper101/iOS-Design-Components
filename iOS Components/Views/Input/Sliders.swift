@@ -41,7 +41,7 @@ struct Sliders_Previews: PreviewProvider {
     static var previews: some View {
         Sliders()
             .previewLayout(.sizeThatFits)
-            .padding()
+//            .padding()
             .preferredColorScheme(scheme)
             .previewDisplayName(
                 displayName(

@@ -54,7 +54,7 @@ struct Buttons: View {
             // Button with Icon
             Button(action: {}) {
                 Label(
-                    "Label",
+                    "Title",
                     systemImage: "paperplane.fill"
                 )
                 // .labelStyle(.icon)

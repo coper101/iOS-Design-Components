@@ -14,7 +14,7 @@ struct Colors: View {
         VStack(spacing: 70) {
             
             // MARK: Colors
-            // iOS 14:
+            // iOS 13:
             // .red
             // .orange
             // .yellow

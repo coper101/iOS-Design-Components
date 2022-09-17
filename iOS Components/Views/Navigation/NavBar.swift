@@ -37,7 +37,7 @@ struct NavBar: View {
         // .large - left aligned title extends beyond regular toolbar height
         
         // * .navigationBarBackButtonHidden(Bool)
-        // - toggle back button when on child's screen
+        // - toggle back button when on chil'd's screen
         
         // MARK: Navigation Link
         // pushes another screen on top when tapped
@@ -47,13 +47,13 @@ struct NavBar: View {
             
             NavigationLink(destination: {
                 Text("Child")
-                    .navigationBarBackButtonHidden(true)
+                    .navigationBarBackButtonHidden(false)
                     .navigationBarHidden(false)
                     .navigationBarTitleDisplayMode(titleDisplayMode)
                     .navigationTitle("Title")
                     .toolbar {
                         ToolbarItem(placement: .navigationBarTrailing) {
-                            Button("Right Title") {
+                            Button("Button") {
                                 // Action
                             }
                         }
@@ -68,7 +68,7 @@ struct NavBar: View {
         .navigationViewStyle(.columns)
         .toolbar {
             ToolbarItem(placement: .navigationBarTrailing) {
-                Button("Right Title") {
+                Button("Button") {
                     // Action
                 }
             }

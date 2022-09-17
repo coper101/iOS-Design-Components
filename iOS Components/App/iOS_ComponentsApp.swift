@@ -11,8 +11,8 @@ import SwiftUI
 struct iOS_ComponentsApp: App {
     var body: some Scene {
         WindowGroup {
-            // FontWeightsView()
-            NavView()
+            
+            NavView(listStyle: .grouped)
         }
     }
 }
